@@ -18,12 +18,12 @@ puts "!DOOF EM EVIG TSUJ ZLP TAHT EKIL EM TA GNIKOOL UOY ERA YHW"
 puts "i can't believe how dumb this dog is"
 
 #Your translator keeps using the words "will not" instead of "will"
-#Add a method to the end of this string to sub out one word for the other.
-puts "I will not take over the world, you mark my words. Also I will not eat the dogs food when he isn't looking."
+#Add a method to the end of this string to substitute out one word for the other.
+puts "I will not take over the world, you mark my words. I will not also eat the dog's food when he isn't looking."
 
 #There's a lot going on here. Your translator is really having trouble.
 #Fix each sentence as you see fit - proper grammar please!
 #This time, the dog is yelling. Your cat never yells.
-puts "uoy dluoc woh ,syawyna doof ym tae ot gniog si eh ,em erofeb tac eht gnideef ruoy eveileb tnac I"
+puts "?uoy dluoc woh ,syawyna doof ym tae ot gniog si eh ,em erofeb tac eht gnideef er'uoy eveileb tnac I"
 
 puts "you are THE VERY BEST HUMAN, do not give in to his whining, he is a not stupid dog."
