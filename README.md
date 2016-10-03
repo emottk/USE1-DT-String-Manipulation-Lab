@@ -1,7 +1,7 @@
 #String Manipulation Practice
 
-Follow the directions in the comments. Put your answers between the string and the + "\n" symbol.
-When you're done and want to check your answer, `cd` into this directory in your command line and type `Ruby lab.rb`    
+Follow the directions in the comments. Put your answers between the string and the + "\n" symbol.		
+When you're done and want to check your answer, `cd` into this directory in your command line and type `Ruby lab.rb`.    
 
 Change any answer that doesn't show up as expected.   
 
