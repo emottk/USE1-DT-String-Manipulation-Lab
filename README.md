@@ -9,7 +9,7 @@ Hint: We can bring two strings together by using the `+` sign.
 This is called concatenation.     
 For example --
 
-  print "I like green eggs and " + "ham!"
+	print "I like green eggs and " + "ham!"
     >> "I like green eggs and ham!"
 
 You'll have a chance to try this out in the lab!
